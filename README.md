@@ -36,5 +36,5 @@ Building Convolutional Neural Network from scratch using Tensorflow and Keras AP
   
 # Model Prediction
 
- • I have used the picture of myself and the model predicted human, so the model is accurate in classification of human vs horse.
+ • I have used the picture of horse and the model predicted horse, so the model is accurate in classification of human vs horse.
 
